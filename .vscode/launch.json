@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "projeto.Application",
+            "projectName": "accessing-data-rest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "projeto.Teste",
+            "projectName": "springboot-quickstart"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "projeto.Application",
+            "projectName": "springboot-quickstart"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+projeto\entity\Movimentacao.class
+projeto\HelloController.class
+projeto\repository\ClienteRepository.class
+projeto\repository\ContaCorrenteRepository.class
+projeto\entity\ContaCorrente.class
+projeto\Application.class
+projeto\entity\Conta.class
+projeto\entity\Cliente.class
+projeto\Teste.class
